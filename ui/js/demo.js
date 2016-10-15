@@ -17,7 +17,7 @@
 $(document).ready(function() {
   // Tweet Filters
   var FILTERS = [
-    { title: 'Customer sentiment', title_id: 'customer-sentiment', filters: [] },
+    { title: 'Customer Relationship', title_id: 'customer-Relationship', filters: [] },
     { title: 'Support topics',     title_id: 'support-topics',     filters: [] }
   ];
 
