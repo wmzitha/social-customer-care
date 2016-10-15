@@ -13,7 +13,7 @@ applications:
    - natural-language-classifier-service
    - personality-insights-service
    - tone-analyzer-service
-  name: social-customer-care
+  name: SpendingMonitor
   command: npm start
   path: .
   memory: 512M
